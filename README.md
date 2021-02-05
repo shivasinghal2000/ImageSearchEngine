@@ -1,3 +1,11 @@
+# To View the deployed app visit the below link
+
+https://wonderful-shannon-0551fe.netlify.app/
+
+# Project description
+
+We can search images of anything like cars, plants, flowers, quotes, baby and many more. We have used Upsplash API to search images. Whenever user search for something it post request to unsplash API and from there we fetch images of that object. Here images are displayed using dynamic spans.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
