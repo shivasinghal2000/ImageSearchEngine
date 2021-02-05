@@ -1,3 +1,7 @@
+# To View the deployed app visit the below link
+
+https://wonderful-shannon-0551fe.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
